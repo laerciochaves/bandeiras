@@ -1,0 +1,37 @@
+*{
+    margin: 0 auto;
+}
+
+.bandeira{
+    height: 500px;
+    border: 1px solid black;
+    box-sizing: border-box;
+}
+.preto{
+    background-color: black;
+    height: 33.33%;
+}
+
+.vermelho{
+    background-color: red;
+    height: 33.33%;
+}
+
+.amarelo{
+    background-color: yellow;
+    height: 33.33%;
+}
+
+#faixa-azul-frança{
+    width: 33,33;
+    height: 100%;
+    float: left;
+    background-color: blue;
+}
+#faixa-vermelha-frança{
+    width: 33,33;
+    height: 100%;
+    float: right; 
+    background-color: red;
+}
+    
